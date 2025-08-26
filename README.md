@@ -9,5 +9,5 @@
 - 🤖 [Proyecto3](link)
 
 ## 📫 Contacto
-- LinkedIn: [Sofía García Guerrero](www.linkedin.com/in/sofia-garcia-585713326)  
+- LinkedIn: (www.linkedin.com/in/sofia-garcia-585713326)  
 - Email: sgarciaguerrero2025@gmail.com
