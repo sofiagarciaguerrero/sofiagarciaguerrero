@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Sofía 👋
+🎓 Estudiante de Ingeniería Biomédica (Universidad de Alicante)  
+💡 Interesada en: bioinformática, IA aplicada a salud, análisis de datos médicos.  
+🚀 Actualmente: desarrollando proyectos en Python para mi portafolio.  
 
-<!--
-**sofiagarciaguerrero/sofiagarciaguerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Mis proyectos destacados
+- 🧠 [Proyecto1](link)
+- 📊 [Proyecto2](link)
+- 🤖 [Proyecto3](link)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- LinkedIn: [Sofía García Guerrero](www.linkedin.com/in/sofia-garcía-585713326)  
+- Email: sgarciaguerrero2025@gmail.com
